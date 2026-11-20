@@ -1,0 +1,18 @@
+{
+  "id": "./",
+  "name": "MindMelt",
+  "short_name": "MindMelt",
+  "description": "Play quizzes, create question sets, collect MindBlooks and read stories.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#f0edff",
+  "theme_color": "#21175e",
+  "categories": ["education", "games", "books"],
+  "icons": [
+    {"src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any"},
+    {"src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any"},
+    {"src": "icons/icon-512-maskable.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable"}
+  ]
+}
